@@ -22,10 +22,10 @@
 
 ## Dataset
 
-    * [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set)
-    * 20 Attributes
-    * 1151 observations
-    * Features extracted from the Messidor image set to predict whether an image contains signs of diabetic retinopathy or not.
+   * [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set)
+   * 20 Attributes
+   * 1151 observations
+   * Features extracted from the Messidor image set to predict whether an image contains signs of diabetic retinopathy or not.
 
 ## Scores for each Classification Algorithms tested
 
